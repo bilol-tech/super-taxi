@@ -1,16 +1,28 @@
-# suppertaxi
+# SuperTaxi
 
-A new Flutter project.
+![Super Taxi](https://github.com/bilol-tech/super-taxi/blob/main/assets/SuperTaxi.png)
 
-## Getting Started
+This project is a groundbreaking mobile application revolutionizing the ride-hailing industry, offering a customized experience tailored to the needs of diverse users. Additionally, the app provides separate interfaces for both male & female users and facilitates bookings with taxi drivers of the same gender, prioritizing user comfort and safety during rides.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Customized experience for diverse users
+- Separate interfaces for male & female users
+- Facilitates bookings with taxi drivers of the same gender
+- Prioritizes user comfort and safety during rides
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Technologies Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter
+- Dart
+- Yandex Maps
+- Provider
+- Cupertino Widgets
+
+## Usage
+
+1. Install the Super Taxi mobile application on your device.
+2. Sign up or log in to your account.
+3. Choose your desired pickup and drop-off locations.
+4. Select your preferred taxi options, including gender preferences.
+5. Confirm your booking and enjoy your ride with Super Taxi!
