@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dgis_black_white">#fff</color>
+    <color name="dgis_blue">#70aee0</color>
+    <color name="dgis_card">#262626</color>
+    <color name="dgis_card_bullet_separator">#808080</color>
+    <color name="dgis_card_elevated">#333333</color>
+    <color name="dgis_card_icon">#fff</color>
+    <color name="dgis_card_icon_dimmed">#808080</color>
+    <color name="dgis_card_overlay">#19ffffff</color>
+    <color name="dgis_card_pressed">#3c3c3c</color>
+    <color name="dgis_card_text">#fff</color>
+    <color name="dgis_card_text_accented">#70aee0</color>
+    <color name="dgis_card_text_dimmed">#808080</color>
+    <color name="dgis_map_control_background_normal">#121212</color>
+    <color name="dgis_map_control_background_pressed">#3c3c3c</color>
+    <color name="dgis_map_control_background_transparent">#00121212</color>
+    <color name="dgis_map_control_foreground_disabled">#808080</color>
+    <color name="dgis_map_control_foreground_normal">#ccc</color>
+    <color name="dgis_map_control_overlay">#3370aee0</color>
+    <color name="dgis_public_transport_car">@color/dgis_primary</color>
+    <color name="dgis_public_transport_car_dimmed">#808080</color>
+    <color name="dgis_public_transport_name_background">#333333</color>
+    <color name="dgis_public_transport_name_background_dimmed">#333333</color>
+    <color name="dgis_public_transport_waypoint_dimmed">#4d4d4d</color>
+    <color name="dgis_secondary">#70aee0</color>
+    <style name="LaunchTheme" parent="@android:style/Theme.Black.NoTitleBar">
+        
+        <item name="android:windowBackground">@drawable/launch_background</item>
+    </style>
+    <style name="NormalTheme" parent="@android:style/Theme.Black.NoTitleBar">
+        <item name="android:windowBackground">?android:colorBackground</item>
+    </style>
+    <style name="Theme.AppCompat.DayNight" parent="Theme.AppCompat"/>
+    <style name="Theme.AppCompat.DayNight.DarkActionBar" parent="Theme.AppCompat"/>
+    <style name="Theme.AppCompat.DayNight.Dialog" parent="Theme.AppCompat.Dialog"/>
+    <style name="Theme.AppCompat.DayNight.Dialog.Alert" parent="Theme.AppCompat.Dialog.Alert"/>
+    <style name="Theme.AppCompat.DayNight.Dialog.MinWidth" parent="Theme.AppCompat.Dialog.MinWidth"/>
+    <style name="Theme.AppCompat.DayNight.DialogWhenLarge" parent="Theme.AppCompat.DialogWhenLarge"/>
+    <style name="Theme.AppCompat.DayNight.NoActionBar" parent="Theme.AppCompat.NoActionBar"/>
+    <style name="ThemeOverlay.AppCompat.DayNight" parent="ThemeOverlay.AppCompat.Dark"/>
+</resources>
